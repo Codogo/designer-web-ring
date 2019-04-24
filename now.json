@@ -1,7 +1,7 @@
 {
 	"name": "web-wringer",
 	"version": 2,
-	"alias": ["webwringer.com"],
+	"alias": ["kipat.co.uk"],
 	"github": {
 		"enabled": false,
 		"autoAlias": false
